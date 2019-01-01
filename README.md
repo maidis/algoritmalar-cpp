@@ -1,2 +1,5 @@
 # algoritmalar-cpp
-Algoritma Soruları'nda yayımlanan sorulara C++ cevaplar
+
+Burada, [Mirat Can Bayrak](https://twitter.com/miratcanbayrak) tarafından ilk önce Twitter üzerinden yayımlanan, daha sonra da Blogspot üzerinde devam ettirilen [Algoritma Soruları](https://algoritma-sorulari.blogspot.com/)'na C++ ile verdiğim cevaplar yer almaktadır.
+
+En meşhurlarından biri [Project Euler](https://projecteuler.net/) olan bu tip algoritma soru siteleri, bulmaca gibi insanı kendine çekiyor. Herkesin algoritmik problemlerle ilgilinme nedeni farklı, kimi sadece eğlenmek için, kimi yeni bir programlama dili öğrenmek için, kimi de bildiği bir dilde daha da ilerlemek için bu problemleri çözüyor. Ben de C++ pratiğimi biraz daha artırmak için bu soruları açıklamalı olarak çözmeye karar verdim. Bir terslik çıkmazsa Algoritma Soruları güncellendikçe ben de yayımlanan soruları burada anlatımlı olarak çözeceğim.
