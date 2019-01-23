@@ -7,7 +7,7 @@ Bu yazıda bir `vector`'deki peş peşe konumlarda yer alan aynı öğelerin kon
 Programın ilerleyen kısımlarında kullanacağımız değişkenleri ve sabitleri tanımlayarak programa başlayalım. Aslında bunları kullanılacakları yerlerin daha yakınlarında tanımlamak daha doğru ama şimdilik bu gerçeği görmezden gelelim. Değişkenlerimizi kısaca tanıtmak gerekirse:
 
 - `v`: Üzerinde arama yapacağımız taşıyıcı
-- `a`, b`: Aradığımız öğelerin konumlarını bulurken alt ve üst sınırları belirlemek için yardımcı değişkenler
+- `a`, `b`: Aradığımız öğelerin konumlarını bulurken alt ve üst sınırları belirlemek için yardımcı değişkenler
 - `q`: Aranan öğe
 - `vect`: Alt ve üst sınırların saklanacağı taşıyıcı
 - `inSeries`: O anda bir seri içinde olunup olunmadığını belirten değişken
