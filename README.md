@@ -7,3 +7,4 @@ En meşhurlarından biri [Project Euler](https://projecteuler.net/) olan bu tip 
 * [C++'ta Yinelenen Öğelerin Bulunması](./tekrar-eden-ogeler/README.md)
 * [C++'ta vector'ü Tersine Çevirme](./vector-ters-cevirme/README.md)
 * [C++'ta Yinelenen Öğelerin Yerlerinin Bulunması](./seri-yeri-bulma/README.md)
+* [C++'ta Bir Bayttaki İki Dörtlünün Yerini Değiştirmek](./dortlu-yer-degistirme/README.md)
