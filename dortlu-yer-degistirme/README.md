@@ -12,6 +12,7 @@ Baytın İngilizce karşılığı olan byte, ısırmak anlamına gelen bite keli
 Olası tüm dörtlüler ve diğer sayı sistemlerindeki karşılıkları aşağıdaki gibidir:
 
 | Onaltılık | Onluk | Sekizlik | İkilik |
+|-----------|-------|----------|--------|
 | 0 | 0 | 0 | 0 0 0 0 |
 | 1 | 1 | 1 | 0 0 0 1 |
 | 2 | 2 | 2 | 0 0 1 0 |
