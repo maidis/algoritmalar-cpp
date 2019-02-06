@@ -78,3 +78,4 @@ Sonunda yukarıda sonucunu bulduğumuz iki ifadeyi bitsel veya `|` işlemine koy
 - [Swap two nibbles in a byte - GeeksforGeeks](https://www.geeksforgeeks.org/swap-two-nibbles-byte/)
 - [Swap two nibbles in a byte - Firmcodes](http://www.firmcodes.com/swap-two-nibbles-byte/)
 - [Nibble - Ekşi Sözlük](https://eksisozluk.com/nibble--71970)
+- [Nibble - Wikipedia](https://en.wikipedia.org/wiki/Nibble)
