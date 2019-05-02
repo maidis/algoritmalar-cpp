@@ -13,11 +13,6 @@ int lcm1(int const a, int const b)
    return h ? (a * (b / h)) : 0;
 }
 
-int lcm2(int const a, int const b)
-{
-   return std::lcm(a, b);
-}
-
 int main()
 {
     std::cout << "Sayıları giriniz: ";
@@ -29,5 +24,5 @@ int main()
               << lcm1(a, b) << std::endl;
 
     std::cout << "std lcm(" << a << ", " << b << ") = "
-              << lcm2(a, b) << std::endl;
+              << std::lcm(a, b) << std::endl;
 }
