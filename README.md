@@ -10,6 +10,7 @@ En meşhurlarından biri [Project Euler](https://projecteuler.net/) olan bu tip 
 
 * [3 veya 5'e Bölünebilen Doğal Sayıların Toplamı](./bolunebilme/README.md)
 * [En Büyük Ortak Bölen](./en-buyuk-ortak-bolen/README.md)
+* [En Küçük Ortak Kat](./en-kucuk-ortak-kat/README.md)
 
 ### Arama ve Dizi İşlemleri
 * [Yinelenen Öğelerin Bulunması](./tekrar-eden-ogeler/README.md)
