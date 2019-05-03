@@ -11,8 +11,6 @@ std::string getGrade(int numberGrade)
     switch (quotient)
     {
         case 10:
-            letterGrade = "AA";
-            break;
         case 9:
             letterGrade = "AA";
             break;
