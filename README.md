@@ -27,6 +27,7 @@ En meşhurlarından biri [Project Euler](https://projecteuler.net/) olan bu tip 
 * [Yinelenen Öğelerin Bulunması](./tekrar-eden-ogeler/README.md)
 * [vector'ü Tersine Çevirme](./vector-ters-cevirme/README.md)
 * [Yinelenen Öğelerin Yerlerinin Bulunması](./seri-yeri-bulma/README.md)
+* [Dizideki Eksik Sayıyı Bulma](./dizideki-eksik-sayiyi-bulma/README.md)
 
 ### Bitsel İşlemler
 
