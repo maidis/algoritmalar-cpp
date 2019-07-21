@@ -17,17 +17,22 @@ En meşhurlarından biri [Project Euler](https://projecteuler.net/) olan bu tip 
 
 * [100'lük Not Sistemindeki Notu Harf Notuna Dönüştürme](./not-sistemi-donusturucu/README.md)
 
+
 ### Matematik
 
 * [3 veya 5'e Bölünebilen Doğal Sayıların Toplamı](./bolunebilme/README.md)
 * [En Büyük Ortak Bölen](./en-buyuk-ortak-bolen/README.md)
 * [En Küçük Ortak Kat](./en-kucuk-ortak-kat/README.md)
+* [Bir Çevre Uzunluğundaki Mümkün Tüm Dik Üçgenler](./cevreye-gore-dik-ucgen/README.md)
+
 
 ### Arama ve Dizi İşlemleri
+
 * [Yinelenen Öğelerin Bulunması](./tekrar-eden-ogeler/README.md)
 * [vector'ü Tersine Çevirme](./vector-ters-cevirme/README.md)
 * [Yinelenen Öğelerin Yerlerinin Bulunması](./seri-yeri-bulma/README.md)
 * [Dizideki Eksik Sayıyı Bulma](./dizideki-eksik-sayiyi-bulma/README.md)
+
 
 ### Bitsel İşlemler
 
